@@ -1,7 +1,7 @@
 Treinamento de Omnistack 11 - criar uma aplicação com backend, frontend e mobile  atraves das tecnologias Node.JS, React.JS e React Native.
 Cronogramas:
 
-Primeiro dia:23/03/2020
+Primeiro dia: Conhecendo a Omnistack (20200323)
  - Apresentar a aplicação.
  - Configurar ambiente de desenvolvimento:
  -- Node.js e NPM.
@@ -12,7 +12,7 @@ Primeiro dia:23/03/2020
  - Criar projeto com React.JS
  - entendersobre React Native & Expo.
 
-Segundo dia: 24/03/2020
+Segundo dia: Criando a base da aplicação backend (20200324)
  - Node.js e Express:
  -- Rotas e recursos,
  -- Métodos HTTP,
@@ -36,7 +36,7 @@ Segundo dia: 24/03/2020
  - Adicionando módulo CORS.
  - Enviando Basck-end ao GitHub.
 
-Terceiro Dia: 25/03/2020
+Terceiro Dia: Construindo a interface web - frontend (20200325)
  - Limpando estrutura.
  - Conceitos do React:
  -- Componente (Função que retorna HTML),
@@ -52,7 +52,7 @@ Terceiro Dia: 25/03/2020
  - Conectando aplicação a API.
  - Enviar projeto ao GitHub. 
 
-Quarto Dia: 26/03/2020
+Quarto Dia: Desenvolvendo o app mobile (20200326)
  - Instalando Expo.
  - Criando projeto React Native,
  - Executando projeto:
@@ -76,3 +76,23 @@ Quarto Dia: 26/03/2020
  - Conexão com a API.
  - Enviando projeto ao GitHub.
 
+ Quinto Dia: Funcionalidades Avançadas (20200327)
+ - Adicionando validação.
+ - Adicionando testes:
+ -- Por que fazer testes?
+ -- TDD,
+ -- Configurando Jest,
+ -- Tipos de testes,
+ -- Configurando banco de testes,
+ -- Instalando supertest,
+ -- Testando rota de autenticação.
+ - Deploy:
+ -- Alternativas,
+ -- Qual escolher?
+ - Estudos daqui pra frente:
+ -- Padrões de códigos: ESLint, Prettier,
+ -- Autenticação JWT,
+ -- Styled components,
+ - Dicas para aproveitar melhor:
+ -- GitHub,
+ -- LinkedIn.
